@@ -3,8 +3,8 @@
 ![Logo](images/Izipizi.png)
 
 
-# [Veja em funcionamento aqui] (https://giandanves.github.io/calculator)
-Calculadora desenvolvida em Javascript. Após finalizá-la, iniciei a refazê-la em React, mas não a finalizei pois segui para outra aplicação em meus estudos. Para conferir minha primeira aplicação em React, visite meu outro repositório: (https://github.com/giandanves/pokedex)
+# [Veja em funcionamento aqui](https://giandanves.github.io/calculator)
+Calculadora desenvolvida em Javascript. Após concluir suas funcionalidades, comecei a refazê-la em React, mas não a finalizei pois segui para outra aplicação em meus estudos. Para conferir minha primeira aplicação em React, visite meu outro repositório: [Pokédex](https://github.com/giandanves/pokedex)
 
 
 ## Leveraging the architecture
