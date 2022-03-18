@@ -1,18 +1,15 @@
 # IziPizi - You personal calculator
 
-![Logo](docs/Izipizi.png)
+![Logo](images/Izipizi.png)
 
-[Design specs in Figma](https://www.figma.com/file/7KCizfc2mU9GtmzBmcYFWn/Izipizi-Copy?node-id=0%3A1)
+# [Veja em funcionamento aqui](https://giandanves.github.io/calculator/)
 
-This project will remind you of everything you learnd so far, while encouraging you to
-implement a SOLID architecture and get closer to the real world of professional
-software development.
-
-We will be much more organized now, with well-defined steps and rigidness.
+Esse foi o meu primeiro projeto em React. Na época utilizei classes pois segui o tutorial oficial do React.
+Após estudar hooks, desenvolvi outra aplicação com um React mais moderno que pode ser conferida em: (https://github.com/giandanves/pokedex)
 
 ## Leveraging the architecture
 
-![Architecture](docs/architecture.png)
+![Architecture](images/architecture.png)
 [View in figma](https://www.figma.com/file/J7ymhrHDASUOpXp2jHO2Dh/Architecture-chart)
 
 This architecture above is inspired by the [MVC](https://pt.wikipedia.org/wiki/MVC) (Model, View, Controller) pattern. And each view, model, service and controller
