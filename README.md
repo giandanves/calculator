@@ -3,7 +3,7 @@
 ![Logo](images/Izipizi.png)
 
 
-# Veja em funcionamento aqui (https://giandanves.github.io/calculator)
+# [Veja em funcionamento aqui] (https://giandanves.github.io/calculator)
 Calculadora desenvolvida em Javascript. Após finalizá-la, iniciei a refazê-la em React, mas não a finalizei. Para conferir minha primeira aplicação em React, visite meu outro repositório: (https://github.com/giandanves/pokedex)
 
 
