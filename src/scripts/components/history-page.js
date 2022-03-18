@@ -33,7 +33,7 @@ class HistoryContainer extends React.Component {
             </div>
             <div
               className="nav-bar__button"
-              onClick="window.location.href = '/stats.html'"
+              onClick="window.location.href = '/calculator/stats.html'"
             >
               <p className="nav-bar__button--text">Estatísticas</p>
             </div>
